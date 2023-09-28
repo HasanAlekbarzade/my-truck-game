@@ -5,7 +5,7 @@
 
 ## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as an **extension**.
 
 * search for **https://github.com/hasanalekbarzade/my-truck-game** and import
 
